@@ -6,7 +6,7 @@ O projeto é bem simples é uma tela de login desenvolvida para agregar no meu p
 ### Inglês
 The project is very simple, it is a login screen developed to add to my portfolio, however I wanted to add to it the javascript file ready to be integrated into a database, so it can be used and styled according to the user's taste. user. Open Source Code
 
-<img src="Self Assessment/IMG_0092.png" width="200" height="200"/>
+<img src="./Cadastro.jpg.png" width="200" height="200"/>
 
 ## Tecnologias Utilizadas
 
